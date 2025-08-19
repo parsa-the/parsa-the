@@ -19,10 +19,6 @@
   <img width="24" />
   <img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo"  />
   <img width="24" />
-  <img src="https://skillicons.dev/icons?i=html" height="50" alt="html5 logo"  />
-  <img width="24" />
-  <img src="https://skillicons.dev/icons?i=css" height="50" alt="css logo"  />
-  <img width="24" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="tailwindcss logo"  />
   <img width="24" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50" alt="nextjs logo"  />
