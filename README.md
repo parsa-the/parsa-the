@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Front-End Developer in progress — crafting interactive and responsive websites while expanding my skills into the MERN stack. <br>🚀 Currently learning Next.js, MongoDB <br>📚 I enjoy building clean, efficient, and user-friendly apps that solve real problems.</p>
+<p align="left">Front-End Developer — crafting interactive and responsive websites while expanding my skills into the MERN stack. <br>🚀 Currently learning Next.js, MongoDB <br>📚 I enjoy building clean, efficient, and user-friendly apps that solve real problems.</p>
 
 ###
 
