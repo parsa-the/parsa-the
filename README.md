@@ -1,12 +1,12 @@
-<h1 align="left">💫 About Me:</h1>
+<h1 align="left"> About Me:</h1>
 
 ###
 
-<p align="left">Front-End Developer — crafting interactive and responsive websites while expanding my skills into the MERN stack‌.<br>📚 I enjoy building clean, efficient, responsive and user-friendly apps that solve real problems.</p>
+<p align="left">Front-End Developer — crafting interactive and responsive websites while expanding my skills into the MERN stack‌.<br> I enjoy building clean, efficient, responsive and user-friendly apps that solve real problems.</p>
 
 ###
 
-<h3 align="left">💻 Tech Stack:</h3>
+<h3 align="left"> Tech Stack:</h3>
 
 ###
 
@@ -32,7 +32,7 @@
 
 <br clear="both">
 
-<h3 align="left">🌐 Get in touch:</h3>
+<h3 align="left"> Get in touch:</h3>
 
 ###
 
