@@ -12,20 +12,38 @@
 
 <br clear="both">
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo"  />
-  <img width="24" />
-  <img src="https://skillicons.dev/icons?i=ts" height="50" alt="typescript logo"  />
-  <img width="24" />
-  <img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo"  />
-  <img width="24" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="tailwindcss logo"  />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50" alt="nextjs logo"  />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" alt="figma logo"  />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
+<!-- Row 1: first 6 icons -->
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo" />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=ts" height="50" alt="typescript logo" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50" alt="nextjs logo" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo" />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo" />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="tailwindcss logo" />
+</div>
+
+<!-- small vertical space between rows -->
+<br />
+
+<!-- Row 2: remaining 6 icons -->
+<div align="left">
+   <img width="20" />
+  <img src="https://skillicons.dev/icons?i=html" height="50" alt="html logo" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" alt="figma logo" />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=css" height="50" alt="css logo" />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="50" alt="vercel logo" />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=supabase" height="50" alt="supabase logo" />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo" />
 </div>
 
 ###
@@ -40,10 +58,10 @@
 
 <div align="left">
   <a href="https://instagram.com/parsa_.parvi" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="44" height="26" alt="instagram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="44" height="26" alt="instagram logo" />
   </a>
   <a href="parsaparvizi018@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="44" height="26" alt="gmail logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="44" height="26" alt="gmail logo" />
   </a>
 </div>
 
