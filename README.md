@@ -1,5 +1,8 @@
 # 💫 About Me:
-Front-End Developer — crafting interactive and responsive websites.<br>I enjoy building clean, efficient, responsive and user-friendly apps that solve real problems.<br><br>Currently learning .net mvc
+Front-End Developer — Specializing in the creation of interactive and responsive websites.
+I am dedicated to developing clean, efficient, responsive, and user-friendly applications that address practical challenges.
+
+Currently acquiring proficiency in .NET MVC
 
 
 # 💻 Tech Stack:
