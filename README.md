@@ -1,4 +1,4 @@
-# 👋 About Me
+# About Me
 
 I'm a **Front-End Developer** focused on building modern, interactive, and responsive web applications.
 
